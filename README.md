@@ -1,5 +1,5 @@
 # AI Automation with n8n — Course Assets
-### Life Inspired Learning | [lifeinspiredlearning.com](https://lifeinspiredlearning.com)
+### LearnLumina | [courses.learnlumina.com/n8n-automation](https://courses.learnlumina.com/n8n-automation)
 
 Welcome to the official course asset repo. Everything here is yours to download and use as part of the course.
 
@@ -113,7 +113,7 @@ Setup and reference checklists used throughout the course:
 
 The templates here go with the full course — where we build every one of these automations together, step by step.
 
-👉 **[Enroll at lifeinspiredlearning.com](https://lifeinspiredlearning.com)**
+👉 **[Enroll at courses.learnlumina.com/n8n-automation](https://courses.learnlumina.com/n8n-automation)**
 
 You'll get:
 - 8 modules and 31 lessons of hands-on video instruction
@@ -133,4 +133,4 @@ If a template isn't working or you have a question about setup, post in the cour
 
 ---
 
-*Made with ❤️ by Life Inspired Learning*
+*Made with ❤️ by LearnLumina*
